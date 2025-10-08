@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <TestCertificate>
+    </TestCertificate>
+    <SignMode>Off</SignMode>
+    <ProductionCertificate>
+    </ProductionCertificate>
+    <CrossCertificateFile>
+    </CrossCertificateFile>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <TestCertificate>CN="WDKTestCert yoga14s,133572189524718599" | 82AD0C191FB118B5723710DD50CA554D59E44950</TestCertificate>
+  </PropertyGroup>
+</Project>

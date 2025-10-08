@@ -1,2 +1,59 @@
-# MouseLikeTouchPad_I2C
-MouseLikeTouchPad_I2C Hid Driver for windowsä»¿é¼ æ ‡å¼è§¦æ‘¸æ¿é©±åŠ¨
+MouseLikeTouchPad_I2C Hid Driver for windows·ÂÊó±êÊ½´¥Ãş°åÇı¶¯
+
+·ÂÊó±êÊ½´¥Ãş°åÊÇÒ»ÖÖÄ£ÄâÊó±ê¹¦ÄÜµÄ´¥Ãş°å¼¼ÊõÊµÏÖ£¬µ±Ç°µÄÂß¼­ÊµÏÖ°æ±¾ÊÇ·¢Ã÷ÈË»ùÓÚ·ÂÊó±ê´¥Ãş°å×¨Àû¼¼Êõ¸ù¾İÈËÊÖÖ¸²Ù×÷Ê±×ÔÈ»×´Ì¬ÔÙ´ÎÓÅ»¯¸Ä½ø¶ø³É£¬3Ö¸Íê³ÉÊó±ê×ó¼ü/ÓÒ¼ü/ÖĞ¼üºÍÖ¸ÕëµÄ²Ù×÷£¬ÊÖÖ¸ÓëÊó±êµÄ¸÷¸ö°´¼üµÈ²¿¼şµÄ¹¦ÄÜÒ»Ò»¶ÔÓ¦£¬ÆäÖĞµÄÖĞÖ¸¶ÔÓ¦Êó±êµÄÖ¸Õë¶¨Î»Æ÷£¬Ê³Ö¸¶ÔÓ¦Êó±ê×ó¼üºÍÖĞ¼ü£¨Ê³Ö¸ÓëÖĞÖ¸·Ö¿ªÊ±¶¨ÒåÎªÊó±ê×ó¼ü£¬Ê³Ö¸ÓëÖĞÖ¸²¢Â£Ê±¶¨ÒåÎªÊó±êÖĞ¼ü£©£¬ÎŞÃûÖ¸¶ÔÓ¦Êó±êÓÒ¼ü£¬ÖĞÖ¸ÎŞÃûÖ¸»òÕßÖĞÖ¸ÓëÊ³Ö¸2Ö¸Ò»Æğ¿ìËÙ´¥Ãşºó»¬¶¯²Ù×÷Ê±¶ÔÓ¦Êó±ê´¹Ö±¹öÂÖºÍË®Æ½¹öÂÖ£¬µ¥Ö¸ÖØ°´´¥¿Ø°å×óÏÂ½ÇÎïÀí¼üÎªÊó±êµÄºóÍË¹¦ÄÜ¼ü£¬µ¥Ö¸ÖØ°´´¥¿Ø°åÓÒÏÂ½ÇÎïÀí¼üÎªÊó±êµÄÇ°½ø¹¦ÄÜ¼ü£¬µ¥Ö¸ÖØ°´´¥¿Ø°åÏÂÑØÖĞ¼äÎïÀí¼üÎªµ÷½ÚÊó±êDPIÁéÃô¶È£¨Âı/ÖĞµÈ/¿ì3¶ÎÁéÃô¶È£©£¬Ë«Ö¸ÖØ°´´¥¿Ø°åÏÂÑØÎïÀí¼üÎª¹öÂÖ¿ª¹Ø£¨¿ªÆôÊó±ê¹öÂÖ¼°´¥Ãş°åÊÖÊÆ¹¦ÄÜ·½±ãÈÕ³£Ó¦ÓÃ²Ù×÷£¬ÁÙÊ±¹Ø±ÕÊó±ê¹öÂÖ¼°´¥Ãş°åÊÖÊÆ¹¦ÄÜÒÔ½µµÍÓÎÏ·Îó²Ù×÷ÂÊ£©£¬ÈıÖ¸ÖØ°´´¥¿Ø°åÏÂÑØÎïÀí¼üÎªÇĞ»»¹öÂÖµÄ²Ù×÷·½Ê½£¨¾«È·Ê½´¥Ãş°åË«Ö¸»¬¶¯ÊÖÊÆ/Ä£·ÂÊó±êµÄ¹öÂÖ²Ù×÷£¬·½±ãÉÙÊı¶Ô´¥¿Ø°åË«Ö¸»¬¶¯Ö§³Ö²îµÄÓ¦ÓÃÈçPTC Creo¿ÉÒÔÊ¹ÓÃÄ£·ÂµÄÊó±ê¹öÂÖ²Ù×÷£©£¬ËÄÖ¸ÖØ°´´¥¿Ø°åÏÂÑØÎïÀí¼üÎªµ÷½ÚÊÖÖ¸Í·³ß´ç´óĞ¡Ëõ·Å±ÈÀı·½±ãÊÊÅäÊó±êÖĞ¼ü¹¦ÄÜ£¬ÎåÖ¸ÖØ°´´¥¿Ø°åÏÂÑØÎïÀí¼üÎªÇĞ»»·ÂÊó±êÊ½´¥Ãş°å²Ù×÷·½Ê½µÄ¿ª¹Ø£¨¹Ø±ÕÊ±»Ö¸´ÎªwindowsÏµÍ³Ô­±¾µÄ´¥¿Ø°å·½Ê½ÒÔ·½±ãÆäËûÎ´Ñ§Ï°·ÂÊó±êÊ½´¥Ãş°å²Ù×÷·½·¨µÄÓÃ»§Ê¹ÓÃ£¬Í¬Ê±Ò²ÄÜÍ¨¹ı¶Ô±ÈÌåÏÖ³ö·ÂÊó±êÊ½´¥Ãş°åÇı¶¯µÄÇ¿´óÖ®´¦£©¡£
+
+ÊÖÖ¸ÓëÊó±ê°´¼ü¹¦ÄÜ¶¨Òå¹æÔò£º 
+¸ù¾İÊó±ê×ó¼ü/ÖĞ¼üÆÕ±éÓÃÊ³Ö¸²Ù×÷µÄÏ°¹ß¡¢ÊÖÖ¸×ÔÈ»×´Ì¬À´Çø·ÖÈ·¶¨Êó±ê×ó¼ü/ÓÒ¼ü/ÖĞ¼ü²Ù×÷Óë¹ö¶¯²Ù×÷£»ÖĞÖ¸¶ÔÓ¦Êó±êµÄÖ¸Õë¶¨Î»Æ÷£»ÖĞÖ¸±»¶¨ÒåÎªÖ¸ÕëºóÊ³Ö¸Ê×´Î½Ó´¥µ½´¥¿Ø°åµÄÊ±¼äÓëÖĞÖ¸¶¨ÒåÎªÖ¸ÕëµÄÊ±¼ä²î³¬¹ıãĞÖµ³£Á¿Ê±Ê³Ö¸²Ù×÷¶¨Òå ÎªÊó±ê×ó¼ü»òÖĞ¼ü£¨Ê³Ö¸ÓëÖĞÖ¸Îª·Ö¿ª×´Ì¬Ê±Ê³Ö¸²Ù×÷¶¨ÒåÎªÊó±ê×ó¼ü£¬Ê³Ö¸ÓëÖĞÖ¸²¢Â£×´Ì¬Ê±Ê³Ö¸²Ù×÷¶¨ÒåÎªÊó±êÖĞ¼ü£¬×ó¼üºÍÖĞ¼ü»¥ÏàÇĞ»»ĞèÒªÌ§ÆğÊ³Ö¸ºó½øĞĞ¸Ä±ä£¬¼´Ê³Ö¸ÓëÖĞÖ¸ÔÚ·Ö¿ª¡¢²¢Â£×´Ì¬Ö®¼ä»¬¶¯ÇĞ»»Ê±×ó¼üÖĞ¼ü¶¨Òå±£³Ö²»±ä£©£»ÖĞÖ¸±»¶¨ÒåÎªÖ¸ÕëºóÎŞÃûÖ¸Ê×´Î½Ó´¥µ½´¥¿Ø°åµÄÊ±¼äÓëÖĞÖ¸¶¨ÒåÎªÖ¸ÕëµÄÊ±¼ä²î³¬¹ıãĞÖµ³£Á¿Ê±ÎŞÃûÖ¸²Ù×÷¶¨ÒåÎªÊó±êÓÒ¼ü£¬Ö¸Õë±»¶¨ÒåºóÎŞÃûÖ¸/Ê³Ö¸Ê×´Î½Ó´¥µ½´¥¿Ø°åµÄÊ±¼äÓëÖĞÖ¸¶¨ÒåÎªÖ¸ÕëµÄÊ±¼ä²îĞ¡ÓÚãĞÖµ³£Á¿Ê±£¨ÖĞÖ¸ÎŞÃûÖ¸»òÕßÖĞÖ¸ÓëÊ³Ö¸2Ö¸Ò»Æğ¿ìËÙ´¥Ãşºó»¬¶¯²Ù×÷£©¶¨ÒåÎªÊó±ê´¹Ö±»òË®Æ½¹öÂÖ£¨Õı³£Çé¿öÖĞÖ¸ÎŞÃûÖ¸»òÕßÖĞÖ¸ÓëÊ³Ö¸2Ö¸Ò»Æğ»¬¶¯²Ù×÷µÄÊæÊÊĞÔ×î¸ß£©¡£
+
+¶àµãµçÈİÊ½´¥Ãş°å¸ù¾İ´¥Ãşµã½Ó´¥ÃæĞÎ×´ºÜÈİÒ×½â¾öÊÖÕÆµÄÎó´¥£¨´ò×ÖÊ±´¥Ãş°åÖ§³ÅÊÖÕÆµÄÍÖÔ²½Ó´¥ÃæµÄ³¤¿í±ÈÌØÕ÷±ÈÕı³£ÊÖÖ¸´óËùÒÔºÜÈİÒ×ÅÅ³ı¹ıÂËµô£©¡£
+ÒòÎª·ÂÊó±êÊ½´¥Ãş°åÇı¶¯µÄÖ¸ÕëÒÆ¶¯¹¦ÄÜ²ÉÓÃÊó±êÊı¾İ±¨¸æ¼¯ºÏËùÒÔwindows´¥Ãş°åÉèÖÃµÄ¸ü¸Ä¹â±êËÙ¶ÈÑ¡ÏîÎŞĞ§¶øÊÇÍ¨¹ıµ÷½ÚÊó±êÉèÖÃÀïµÄ¹â±êËÙ¶ÈÒÔ¼°µ¥Ö¸ÖØ°´´¥Ãş°åÏÂÑØµ÷½ÚDPIÁéÃô¶È·½Ê½¡£
+
+±¾Çı¶¯Ö»ÊÊºÏ²¿·ÖÆ¥ÅäµÄ±Ê¼Ç±¾µçÄÔĞÍºÅ£¬Ó²¼ş¼æÈİ±ê×¼ÒÔ°²×°³É¹¦²¢ÔËĞĞÕı³£À´ÅĞ±ğ¡£
+sysÇı¶¯³ÌĞòÎÄ¼ş²ÉÓÃÎ¢ÈíÈÏÖ¤µÄÊı×ÖÇ©ÃûÖ¤Êé°²È«¿É¿¿£¬Èç¹ûä¯ÀÀÆ÷ÏÂÔØºÍwindows°²È«ÖĞĞÄµ¯³ö¾¯¸æÍşĞ²ÊôÓÚÎó±¨£¬ÎŞĞèµ£ĞÄ°²È«ÎÊÌâ¡£
+
+
+Çı¶¯ÏÂÔØ£º
+¸´ÖÆÏÂÃæµÄÁ´½Óµ½ä¯ÀÀÆ÷µØÖ·À¸ºó»Ø³µ½øÈëÏÂÔØÒ³Ãæ
+https://github.com/jxleyo/MouseLikeTouchPad_I2C/releases
+Ñ¡Ôñ²»Í¬µÄ°²×°°ü°æ±¾Ö±½ÓÏÂÔØ
+
+°²×°ºÍĞ¶ÔØ·½·¨£º
+ÊÖ¶¯°²×°·½·¨ÎªÏÈ×¼±¸Ò»¸öÍâÖÃÊó±ê±ÜÃâ°²×°¹ı³ÌÖĞÊ§°ÜÎŞ·¨²Ù×÷µçÄÔ£¬
+ÏÂÔØµÄzipÎÄ¼şÇı¶¯³ÌĞòÑ¹Ëõ°ü½âÑ¹µ½ÈÎÒâÎ»ÖÃºó´ò¿ª£¬½øÈëMouseLikeTouchPad_I2C_Driver×ÓÎÄ¼ş¼Ğ£¬Ë«»÷SetSensitivity.regÎÄ¼şµ¼Èë×¢²á±íÉèÖÃ£¬°²×°/Ğ¶ÔØÇı¶¯·Ö±ğ´ò¿ªInstallDriver.bat/UninstallDriver.batÎÄ¼ş£¬¸ù¾İ´°¿ÚÎÄ×ÖÌáÊ¾²Ù×÷¼´¿ÉÍê³ÉÇı¶¯°²×°/Ğ¶ÔØ¡£
+
+
+Ê¹ÓÃ²Ù×÷ÊÓÆµ½Ì³ÌÍøÖ·£º
+https://space.bilibili.com/409976933
+https://www.youtube.com/channel/UC3hQyN-2ZL_q7pCKoASAblQ
+
+
+MouseLikeTouchPad_I2C Hid Driver for windows·ÂÊó±êÊ½´¥Ãş°åÇı¶¯
+
+The MouseLikeTouchPad is a touchpad technology implementation that simulates the function of the mouse. The current logic implementation version is optimized and improved again by the inventor based on the patented technology of the mouse like touchpad according to the natural state of human fingers during operation. 3 fingers refers to the completion of the operation of the left / right / middle keys of the mouse. The fingers correspond to the functions of various buttons and other parts of the mouse one by one. The middle finger corresponds to the pointer locator of the mouse, The index finger corresponds to the left button and the middle button of the mouse (when the index finger and the middle finger are separated, it is defined as the left button of the mouse, and when the index finger and the middle finger are close together, it is defined as the middle button of the mouse), the ring finger corresponds to the right button of the mouse, and the middle finger ring finger or the middle finger and the index finger 2 together after quick touch correspond to the vertical wheel and the horizontal wheel of the mouse during sliding operation. Pressing the physical key at the lower left corner of the touch panel with a single finger is the backward function key of the mouse, Pressing the physical key at the lower right corner of the touch panel with a single finger is the forward function key of the mouse, pressing the middle physical key at the lower edge of the touch panel with a single finger is to adjust the DPI sensitivity of the mouse (slow / medium / fast 3-stage sensitivity), and pressing the physical key at the lower edge of the touch panel with a double finger is the wheel switch (turning on the mouse wheel and the touch pad gesture function is convenient for daily application and operation, and temporarily turning off the mouse wheel and the touch pad gesture function to reduce the misoperation rate of the game), Pressing the physical key on the lower edge of the touch pad with three fingers is the operation mode to switch the wheel (accurate touch pad two finger sliding gesture / imitating the wheel operation of the mouse, which is convenient for a few applications with poor support for the two finger sliding of the touch pad, such as PTC Creo, which can use the simulated mouse wheel operation), Press the physical key on the lower edge of the touch panel with four fingers to switch the operation mode of the mouse like touch panel (when it is closed, it will revert to the original touch panel mode of the windows system to facilitate the use of other users who have not learned the operation method of the mouse like touch panel. At the same time, it can also reflect the power of the mouse like touch panel drive through comparison).
+
+The mouse like touchpad is a touchpad technology implementation that simulates the function of the mouse. The current logic implementation version is optimized and improved again by the inventor based on the patented technology of the mouse like touchpad according to the natural state of human fingers during operation. 3 refers to the completion of the operation of the left / right / middle keys and fingers of the mouse. The fingers correspond to the functions of various buttons and other parts of the mouse one by one. The middle finger corresponds to the pointer locator of the mouse, The index finger corresponds to the left button and the middle button of the mouse (when the index finger and the middle finger are separated, it is defined as the left button of the mouse, and when the index finger and the middle finger are close together, it is defined as the middle button of the mouse), the ring finger corresponds to the right button of the mouse, and the middle finger ring finger or the middle finger and the index finger 2 together after quick touch correspond to the vertical wheel and the horizontal wheel of the mouse during sliding operation. Pressing the physical key at the lower left corner of the touch panel with a single finger is the backward function key of the mouse, Pressing the physical key at the lower right corner of the touch panel with a single finger is the forward function key of the mouse, pressing the middle physical key at the lower edge of the touch panel with a single finger is to adjust the DPI sensitivity of the mouse (slow / medium / fast 3-stage sensitivity), and pressing the physical key at the lower edge of the touch panel with a double finger is the wheel switch (turning on the mouse wheel and the touch pad gesture function is convenient for daily application and operation, and temporarily turning off the mouse wheel and the touch pad gesture function to reduce the misoperation rate of the game), Pressing the physical key on the lower edge of the touch pad with three fingers is the operation mode to switch the wheel (accurate touch pad two finger sliding gesture / imitating the wheel operation of the mouse, which is convenient for a few applications with poor support for the two finger sliding of the touch pad, such as PTC Creo, which can use the simulated mouse wheel operation), Press the physical keys on the bottom edge of the touchpad with four fingers to adjust the scaling ratio of the finger size for easy adaptation to the middle mouse button function,Press the physical key on the lower edge of the touch panel with five fingers to switch the operation mode of the mouse like touch panel (when it is closed, it will revert to the original touch panel mode of the windows system to facilitate the use of other users who have not learned the operation method of the mouse like touch panel. At the same time, it can also reflect the power of the mouse like touch panel drive through comparison).
+
+The multi-point capacitive touch pad can easily solve the wrong touch of the palm according to the shape of the contact surface of the touch point (the aspect ratio of the elliptical contact surface of the palm supported by the touch pad during typing is larger than that of the normal finger, so it is easy to eliminate the filter).
+
+Because the pointer movement function driven by the MouseLikeTouchPad adopts the mouse data report set, the option to change the cursor speed in the windows touch pad setting is invalid. Instead, adjust the DPI sensitivity by adjusting the cursor speed in the mouse setting and pressing the lower edge of the touch pad with a single finger.
+
+This driver is only suitable for partially matched laptop models, and hardware compatibility standards are determined by successful installation and normal operation.
+
+The sys driver file uses a Microsoft Certified Professional certified digital signature certificate that is secure and reliable. If the browser downloads and the Windows Security Center pops up a warning threat that is a false alarm, there is no need to worry about security issues.
+
+Description of project folder classification:
+
+
+Driver download£º
+Copy the following link to the browser address bar and press enter to enter the download page
+https://github.com/jxleyo/MouseLikeTouchPad_I2C/releases
+Select different installation package versions to download directly
+
+Installation and uninstallation methods:
+The manual installation method is to prepare an external mouse first to avoid failure during the installation process and unable to operate the computer,
+Unzip the downloaded zip file driver package to any location and open it to enter MouseLikeTouchPad_ I2C_ Driver subfolder, double-click the SetSensitivity.reg file to import registry settings, and open the InstallDriver.bat/UninstallDriver.bat file for driver installation/uninstallation. Follow the text prompts in the window to complete driver installation/uninstallation. 
+
+
+the operation video tutorial website:
+https://space.bilibili.com/409976933
+https://www.youtube.com/channel/UC3hQyN-2ZL_q7pCKoASAblQ
