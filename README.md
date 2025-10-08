@@ -23,7 +23,7 @@ https://github.com/jxleyo/MouseLikeTouchPad_I2C/releases
 
 
 使用操作视频教程网址：
-https://space.bilibili.com/409976933
+https://space.bilibili.com/3546916633709432
 https://www.youtube.com/channel/UC3hQyN-2ZL_q7pCKoASAblQ
 
 
@@ -55,5 +55,6 @@ Unzip the downloaded zip file driver package to any location and open it to ente
 
 
 the operation video tutorial website:
-https://space.bilibili.com/409976933
+https://space.bilibili.com/3546916633709432
 https://www.youtube.com/channel/UC3hQyN-2ZL_q7pCKoASAblQ
+
